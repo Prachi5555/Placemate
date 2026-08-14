@@ -73,7 +73,7 @@ PlaceMate/
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/Ayush-Goel20/PlaceMate.git
+git clone  https://github.com/Prachi5555/Placemate.git
 cd PlaceMate
 ```
 
